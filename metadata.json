@@ -1,0 +1,5 @@
+{
+  "name": "Pharaoh's Fortune",
+  "description": "An interactive application that randomly presents one of two challenges: a pharaonic dice roll or an image-based riddle. The app features a creepy-cute ancient Egyptian art style and leverages Gemini to generate unique visual puzzles.",
+  "requestFramePermissions": []
+}
